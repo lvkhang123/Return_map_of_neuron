@@ -71,7 +71,7 @@ plt.yticks(fontsize=25)  # Adjust the fontsize as needed
 # Adding labels and title
 plt.xlabel('x', fontsize=25)  # Adjust the fontsize as needed
 plt.ylabel('y', fontsize=25)  # Adjust the fontsize as needed
-plt.title('Spike and Burst of neuron', fontsize=30)  # Adjust the fontsize as needed
+plt.title('Return map of neuron', fontsize=30)  # Adjust the fontsize as needed
 
 plt.legend(fontsize = 25) # Adjust the fontsize as needed 
 
